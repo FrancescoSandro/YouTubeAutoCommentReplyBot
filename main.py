@@ -5,6 +5,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 import sys
+#Hello, Welcome for using my Bot.I am Sandro.If you facing any problem then knock me(sandrobiswas36@gmail.com)
 
 # Set the video ID of the video you want to comment on
 video_url = input("Enter the YouTube video URL: ")
