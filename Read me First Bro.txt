@@ -1,0 +1,29 @@
+Working Perfect!!!!!If you don't want to read this then watch Youtube Video
+1. First of all, You need to Install Python and VS Code
+
+2. Then clone this bot. Go to the repository on GitHub that you want to clone.Click on the green "Code" button on the right-hand side of the screen.
+In the dropdown menu that appears, click on the "HTTPS" option to get the URL for cloning the repository.Open your terminal or command prompt on your local machine.
+Navigate to the directory where you want to clone the repository using the cd command.
+Enter the following command in your terminal or command prompt: git clone https://github.com/FrancescoSandro/YouTubeAutoCommentReplyBot.git (paste it)
+
+3. Install pip Download the pip(if you have not) paste it: curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+4. Next, run the get-pip.py script to install pip: python get-pip.py
+5. Finally, you can verify that pip is installed by running the following command: pip --version
+6. Download requirements.txt file : pip install -r requirements.txt
+7. You need to go Google Cloud Console and then enable the YouTube Data API v3
+8. Download "client_secret.json" and paste it the same directory(If you don't understand How to do it and where to get it? Bro, watch my Youtube video)
+9. Now you ready Remember the main part is to create client_secret.json file.
+10. Open your VS code and run the code by paste this on terminal: python main.py (Windows)
+11. It will take from you YouTube Video link and Reply message.
+12. Enjoy!!!!!(Don't Spam plz bro)
+13. Subcribe me on Youtube for more Bot Update
+
+About Me:
+Name: Francesco Sandro Biswas
+Work: Nothing Important
+Phone Number: +8801304216860 (Whatsapp + Telegram)
+E-mail: sandrobiswas36@gmail.com/sabdroales38@gmail.com
+Website: www.codelrn.com
+
+
+
